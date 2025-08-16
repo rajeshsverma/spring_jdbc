@@ -1,6 +1,6 @@
 # Spring JDBC Employee CRUD Example
 
-This project is a simple Spring Boot application demonstrating basic CRUD (Create, Read, Update, Delete) operations on an `Employee` table using **Spring JDBC** with a **MySQL** database.
+This project is a simple Spring Boot application demonstrating basic CRUD (Create, Read, Update, Delete) operations on an `Employee` table using **Spring JDBC (JdbcTemplate)** with a **MySQL** database.
 
 ## Features
 
